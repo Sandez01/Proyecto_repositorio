@@ -1,0 +1,32 @@
+body{
+	background: #11998e;
+    background: -webkit-linear-gradient(to right, #38ef7d, #11998e);
+    background: linear-gradient(to right, #38ef7d, #11998e);
+}
+
+.Repositorio{
+	text-align: center;
+}
+.logo{
+	text-align: center;
+}
+img{
+
+	height: 200px;
+}
+.login{
+	text-align: center;
+
+}
+input{
+	margin: 5px;
+	text-align: -webkit-center;
+	width: 15%;
+	height: 25px;
+	border-radius: 5px;
+}
+.button:hover {
+    background-color: #4CAF50; /* Green */
+    color: white;
+}
+
